@@ -4,7 +4,10 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "ts-node ./1/index.ts ./2/index.ts ./3/index.ts ./4/index.ts"
+        "test_1": "ts-node ./1/index.ts",
+        "test_2": "ts-node ./2/index.ts",
+        "test_3": "ts-node ./3/index.ts",
+        "test_4": "ts-node ./4/index.ts"
     },
     "keywords": [],
     "author": "",
